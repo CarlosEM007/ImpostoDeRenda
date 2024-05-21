@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\IRcalculator\IRcalculator\bin\Debug\net8.0\IRcalculator.exe
+C:\Users\ACER\source\repos\IRcalculator\IRcalculator\bin\Debug\net8.0\IRcalculator.deps.json
+C:\Users\ACER\source\repos\IRcalculator\IRcalculator\bin\Debug\net8.0\IRcalculator.runtimeconfig.json
+C:\Users\ACER\source\repos\IRcalculator\IRcalculator\bin\Debug\net8.0\IRcalculator.dll
+C:\Users\ACER\source\repos\IRcalculator\IRcalculator\bin\Debug\net8.0\IRcalculator.pdb
+C:\Users\ACER\source\repos\IRcalculator\IRcalculator\obj\Debug\net8.0\IRcalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\IRcalculator\IRcalculator\obj\Debug\net8.0\IRcalculator.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\IRcalculator\IRcalculator\obj\Debug\net8.0\IRcalculator.AssemblyInfo.cs
+C:\Users\ACER\source\repos\IRcalculator\IRcalculator\obj\Debug\net8.0\IRcalculator.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\IRcalculator\IRcalculator\obj\Debug\net8.0\IRcalculator.dll
+C:\Users\ACER\source\repos\IRcalculator\IRcalculator\obj\Debug\net8.0\refint\IRcalculator.dll
+C:\Users\ACER\source\repos\IRcalculator\IRcalculator\obj\Debug\net8.0\IRcalculator.pdb
+C:\Users\ACER\source\repos\IRcalculator\IRcalculator\obj\Debug\net8.0\IRcalculator.genruntimeconfig.cache
+C:\Users\ACER\source\repos\IRcalculator\IRcalculator\obj\Debug\net8.0\ref\IRcalculator.dll

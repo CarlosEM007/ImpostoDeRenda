@@ -10,4 +10,4 @@ Programa em C# para calcular o imposto de renda de Pessoa física e jurídica
 <hr>
 
 # exercício usado para a criação do projeto
-<img src="UmlProdutos.png" width="400" height="200">    
+<img src="ExecicioImposto.png" width="400" height="200">    
